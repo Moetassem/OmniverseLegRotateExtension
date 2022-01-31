@@ -14,6 +14,7 @@ Look for "omni.gym.4LegRL" extension in extension manager and enable it. Try app
 This folder is ready to be pushed to any git repository. Once pushed direct link to a git repository can be added to *Omniverse Kit* extension search paths. 
 
 Link might look like this: `git://github.com/[user]/[your_repo].git?branch=main&dir=exts`
+git://github.com/Moetassem/OmniverseLegRotateExtension.git?branch=master&dir=exts
 
 Notice `exts` is repo subfolder with extensions. More information can be found in "Git URL as Extension Search Paths" section of developers manual.
 
